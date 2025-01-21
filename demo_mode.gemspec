@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.authors = ['Nathan Griffith']
   s.email = ['nathan@betterment.com']
   s.homepage = 'http://github.com/betterment/demo_mode'
-  s.summary = 'A configurable demo mode for your Rails app.'
+  s.summary = 'A configurable demo mode for your Rails application.'
   s.description = 'A configurable demo mode for your Rails app. Specify your desired "personas" and DemoMode will handle the rest.'
   s.license = 'MIT'
   s.metadata['rubygems_mfa_required'] = 'true'
